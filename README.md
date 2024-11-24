@@ -1,6 +1,6 @@
-### Krestiki vs Noliki
+### Krestiki vs Noliki also known as Tic-Tac-Toe.
 
-#### Установка зависимостей и сборка проекта
+#### Installation
 
 ```bash
 cd web
@@ -8,14 +8,14 @@ yarn
 yarn build
 ```
 
-#### Запуск приложения
+#### Launch
 
 ```bash
 bin/server
 ```
 
-#### Как поиграть
+#### How to play
 
-После сборки и запуска проекта нужно создать новую игру и войти в лобби. Так как проект будет запущен на локальной среде, то поиграть получится только с игроками из локальной сети.
+After building and launching the project, you need to create a new game and enter the lobby. Since the project will be launched on a local environment, you will only be able to play with players from the local network.
 
-После создания лобби отправить ссылку своему сопернику и игра начнется, стороны игроков определятся автоматически.
+After creating a lobby, send a link to your opponent and the game will start, the sides of the players will be determined automatically.
